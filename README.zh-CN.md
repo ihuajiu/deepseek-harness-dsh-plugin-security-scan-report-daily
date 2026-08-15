@@ -1,26 +1,26 @@
-# DSH Plugin Security Scan Daily Report 📊
+# DSH 插件安全监控日报 📊
 
-> Daily static security scan of the DeepSeek Harness plugin ecosystem — automated heuristics, not a manual review.
+> DeepSeek Harness 插件生态每日静态安全扫描 — 自动化启发式，非人工审计，可能存在误报。
 
-[中文版 (Chinese)](./README.zh-CN.md)
+[English](./README.md)
 
 ![Plugins](https://img.shields.io/badge/plugins-1597-brightgreen) ![Scanned](https://img.shields.io/badge/scanned-1540-blue) ![Critical](https://img.shields.io/badge/critical-18-red) ![High](https://img.shields.io/badge/high-597-orange) ![Medium](https://img.shields.io/badge/medium-102-yellow) ![Low](https://img.shields.io/badge/low-823-green)
 
-**Scan date: 2026-08-15** · 1597 plugins indexed · 1540 scanned (96%)
+**扫描日期：2026-08-15** · 收录 1597 个插件 · 已扫描 1540（96%）
 
-## Latest Full Scan
+## 最新全量扫描
 
-| Level | Count |
+| 等级 | 数量 |
 |---|---|
-| 🔴 Critical | 18 |
-| 🟠 High | 597 |
-| 🟡 Medium | 102 |
-| 🟢 Low | 823 |
-| ⏳ Pending | 57 |
+| 🔴 Critical 严重 | 18 |
+| 🟠 High 高风险 | 597 |
+| 🟡 Medium 中风险 | 102 |
+| 🟢 Low 低风险 | 823 |
+| ⏳ Pending 待扫描 | 57 |
 
-## 🔴 Critical Risk — 18 plugins
+## 🔴 严重风险 — 18 个
 
-| Plugin | Stars | Hits |
+| 插件 | 星级 | 命中 |
 |---|---|---|
 | [zeromd](https://www.dsh.so/artifact/zeromd/) | 33 | 1 critical |
 | [dsh-remote](https://www.dsh.so/artifact/dsh-remote/) | 11 | 4 critical · 1 info |
@@ -41,9 +41,9 @@
 | [dsh-cyber-sec](https://www.dsh.so/artifact/dsh-cyber-sec/) | 1 | 11 critical · 6 warning · 7 info |
 | [DeepSeek-harness-lark](https://www.dsh.so/artifact/deepseek-harness-lark/) | 0 | 2 critical |
 
-## 🟠 High Risk — 597 plugins (Top 20)
+## 🟠 高风险 — 597 个（Top 20）
 
-| Plugin | Stars | Hits |
+| 插件 | 星级 | 命中 |
 |---|---|---|
 | [archify](https://www.dsh.so/artifact/archify/) | 12774 | 4 critical · 4 warning · 7 info |
 | [modlens](https://www.dsh.so/artifact/modlens/) | 1579 | 2 critical · 5 info |
@@ -66,38 +66,38 @@
 | [bibigpt-skill](https://www.dsh.so/artifact/bibigpt-skill/) | 112 | 3 critical |
 | [dsh-vision-router](https://www.dsh.so/artifact/dsh-vision-router/) | 100 | 2 critical · 3 warning · 9 info |
 
-## 🟡 Medium Risk — 102 plugins
+## 🟡 中风险 — 102 个
 
-102 plugins with moderate findings. Full list: [reports/full/2026-08-15.md](./reports/full/2026-08-15.md)
+共 102 个插件存在中等级别发现（完整清单见 [reports/full/2026-08-15.md](./reports/full/2026-08-15.md)）。
 
-## 🟢 Low Risk — 823 plugins
+## 🟢 低风险 — 823 个
 
-823 plugins with no significant findings. Full list: [reports/full/2026-08-15.md](./reports/full/2026-08-15.md)
+共 823 个插件未发现明显风险（完整清单见 [reports/full/2026-08-15.md](./reports/full/2026-08-15.md)）。
 
-## Today's Changes vs Yesterday
+## 今日变化（对比昨日）
 
-- New critical-risk plugins: 18
-- High-risk plugins: 597
-- Medium-risk plugins: 102
+- 新增严重风险：18
+- 高风险：597
+- 中风险：102
 
-## 7-Day Trend
+## 最近 7 天趋势
 
-| Date | Critical | High | Medium | Low |
+| 日期 | Critical | High | Medium | Low |
 |---|---|---|---|---|
 | 2026-08-15 | 18 | 597 | 102 | 823 |
 
-## Report Archive
+## 报告档案
 
-- 📦 Full scan list (by category): [reports/full/](./reports/full/) — latest: [2026-08-15.md](./reports/full/2026-08-15.md), categories: [by-category.md](./reports/full/by-category.md)
-- 📅 Daily reports: [reports/daily/](./reports/daily/) — latest: [2026-08-15.md](./reports/daily/2026-08-15.md)
-- 🗓️ Weekly reports: [reports/weekly/](./reports/weekly/) — this week: [2026-W33.md](./reports/weekly/2026-W33.md)
+- 📦 全量扫描（含按功能分类）：[reports/full/](./reports/full/) — 最新：[2026-08-15.md](./reports/full/2026-08-15.md)，分类：[by-category.md](./reports/full/by-category.md)
+- 📅 每日报告：[reports/daily/](./reports/daily/) — 最新：[2026-08-15.md](./reports/daily/2026-08-15.md)
+- 🗓️ 每周报告：[reports/weekly/](./reports/weekly/) — 本周：[2026-W33.md](./reports/weekly/2026-W33.md)
 
-## About dsh.so
+## 关于 dsh.so
 
-**dsh.so** is the DeepSeek Harness plugin registry — 1597 plugins, each verified against the GitHub API and scored across **Verification / Security / Health / Trust**.
+**dsh.so** 是 DeepSeek Harness 插件注册中心，收录 1597 个插件，每一条都通过 GitHub API 验证真实存在，并从验证 / 安全 / 健康 / 信任四个维度评估。
 
-👉 [Browse all plugins](https://www.dsh.so/artifacts/) · [Security audit](https://www.dsh.so/security/) · [Scan report](https://www.dsh.so/security-report/) · [GitHub](https://github.com/ihuajiu/dsh.so)
+👉 [浏览全部插件](https://www.dsh.so/artifacts/) · [安全审计](https://www.dsh.so/security/) · [扫描报告](https://www.dsh.so/security-report/) · [GitHub](https://github.com/ihuajiu/dsh.so)
 
 ---
 
-_Scans are automated heuristics on static characteristics — they may produce false positives, are not a manual review, and never an endorsement. Install third-party plugins at your own risk._
+_扫描为自动化启发式（静态特征分析），可能存在误报，不是人工审核，也不构成任何背书。安装第三方插件风险自负。_
