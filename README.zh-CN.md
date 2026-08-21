@@ -4,107 +4,61 @@
 
 [English](./README.md)
 
-![Plugins](https://img.shields.io/badge/plugins-7342-brightgreen) ![Scanned](https://img.shields.io/badge/scanned-7326-blue) ![Critical](https://img.shields.io/badge/critical-50-red) ![High](https://img.shields.io/badge/high-0-orange) ![Medium](https://img.shields.io/badge/medium-732-yellow) ![Low](https://img.shields.io/badge/low-6544-green)
+![Plugins](https://img.shields.io/badge/plugins-7939-brightgreen) ![Scanned](https://img.shields.io/badge/scanned-7196-blue) ![Critical](https://img.shields.io/badge/critical-4-red) ![High](https://img.shields.io/badge/high-0-orange) ![Medium](https://img.shields.io/badge/medium-660-yellow) ![Low](https://img.shields.io/badge/low-6532-green)
 
-**扫描日期：2026-08-20** · 收录 7342 个插件 · 已扫描 7326（100%）
+**扫描日期：2026-08-21** · 收录 7939 个插件 · 已扫描 7196（91%）
 
 ## 最新全量扫描
 
 | 等级 | 数量 |
 |---|---|
-| 🔴 Critical 严重 | 50 |
+| 🔴 Critical 严重 | 4 |
 | 🟠 High 高风险 | 0 |
-| 🟡 Medium 中风险 | 732 |
-| 🟢 Low 低风险 | 6544 |
-| ⏳ Pending 待扫描 | 16 |
+| 🟡 Medium 中风险 | 660 |
+| 🟢 Low 低风险 | 6532 |
+| ⏳ Pending 待扫描 | 743 |
 
-## 🔴 严重风险 — 50 个
+## 🔴 严重风险 — 4 个
 
 | 插件 | 星级 | 命中 |
 |---|---|---|
-| [Martty](https://www.dsh.so/artifact/martty/) | 41 | 3 critical · 3 info |
-| [deepseek-harness-tui](https://www.dsh.so/artifact/deepseek-harness-tui-2/) | 38 | 3 critical · 3 info |
-| [zeromd](https://www.dsh.so/artifact/zeromd/) | 33 | 1 critical |
-| [openguardrails](https://www.dsh.so/artifact/openguardrails/) | 30 | 1 critical · 1 warning · 4 info |
-| [dsh-science](https://www.dsh.so/artifact/dsh-science/) | 21 | 4 critical · 3 warning · 7 info |
-| [dsh-clawrouter](https://www.dsh.so/artifact/dsh-clawrouter/) | 19 | 1 critical · 2 info |
-| [dsh-design-skills](https://www.dsh.so/artifact/dsh-design-skills/) | 14 | 1 critical |
-| [dsh-Remote](https://www.dsh.so/artifact/dsh-remote-2/) | 11 | 3 critical · 5 warning · 12 info |
-| [dsh-auto-approve](https://www.dsh.so/artifact/dsh-auto-approve/) | 7 | 4 critical · 1 warning |
-| [dsh-guide-dog](https://www.dsh.so/artifact/dsh-guide-dog/) | 5 | 5 critical · 6 warning · 3 info |
-| [dsh-terminal-panel](https://www.dsh.so/artifact/dsh-terminal-panel/) | 3 | 2 critical · 9 info |
-| [DeepSeek-Harness-linux-](https://www.dsh.so/artifact/deepseek-harness-linux/) | 3 | 1 critical · 7 warning · 8 info |
-| [dsh-cyber-sec](https://www.dsh.so/artifact/dsh-cyber-sec/) | 3 | 8 critical · 7 warning · 5 info |
-| [dsh-remote-ide](https://www.dsh.so/artifact/dsh-remote-ide/) | 3 | 2 critical · 1 info |
-| [dsh-scnet](https://www.dsh.so/artifact/dsh-scnet/) | 3 | 1 critical · 2 warning |
-| [dsh-ssh](https://www.dsh.so/artifact/dsh-ssh-3/) | 3 | 1 critical · 8 info |
-| [dsh-remote-ssh](https://www.dsh.so/artifact/dsh-remote-ssh-2/) | 3 | 4 critical · 4 info |
-| [dsh-skill-pack-security](https://www.dsh.so/artifact/dsh-skill-pack-security/) | 2 | 3 critical · 2 info |
-| [dshmath-manim](https://www.dsh.so/artifact/dshmath-manim/) | 2 | 3 critical · 1 warning · 8 info |
-| [dsh-openclaw-acp](https://www.dsh.so/artifact/dsh-openclaw-acp/) | 1 | 2 critical · 3 info |
 | [dsh-report-studio](https://www.dsh.so/artifact/dsh-report-studio/) | 1 | 5 info |
-| [vpshub](https://www.dsh.so/artifact/vpshub/) | 1 | 5 critical · 3 warning · 4 info |
 | [dsh-plugin-security-review](https://www.dsh.so/artifact/dsh-plugin-security-review/) | 1 | 4 critical · 12 info |
-| [dsh-wiki-bridge](https://www.dsh.so/artifact/dsh-wiki-bridge/) | 1 | 1 critical · 3 info |
-| [dsh-security-guard](https://www.dsh.so/artifact/dsh-security-guard/) | 1 | 3 critical |
-| [aisync](https://www.dsh.so/artifact/aisync/) | 1 | 4 critical · 5 warning · 7 info |
-| [dsh-auto-approval](https://www.dsh.so/artifact/dsh-auto-approval-3/) | 1 | 1 critical · 2 info |
-| [OctoOps](https://www.dsh.so/artifact/octoops/) | 1 | 4 critical · 4 warning · 17 info |
-| [dsh-anywhere](https://www.dsh.so/artifact/dsh-anywhere/) | 1 | 3 critical · 1 warning · 4 info |
-| [powershell-fix](https://www.dsh.so/artifact/powershell-fix/) | 1 | 3 critical |
-| [dsh-remote-vps](https://www.dsh.so/artifact/dsh-remote-vps/) | 0 | 5 critical · 5 warning · 14 info |
-| [dsh-auto-mode](https://www.dsh.so/artifact/dsh-auto-mode-2/) | 0 | 2 critical |
-| [dsh-api-key-pool](https://www.dsh.so/artifact/dsh-api-key-pool/) | 0 | 1 critical · 4 info |
-| [dsh-mobile-access](https://www.dsh.so/artifact/dsh-mobile-access-2/) | 0 | 7 critical · 5 info |
-| [dsh-safeguard](https://www.dsh.so/artifact/dsh-safeguard/) | 0 | 3 critical |
-| [dsh-policy-test](https://www.dsh.so/artifact/dsh-policy-test/) | 0 | 1 critical |
-| [safety-net](https://www.dsh.so/artifact/safety-net/) | 0 | 4 critical · 2 warning · 9 info |
-| [dsh-guardian](https://www.dsh.so/artifact/dsh-guardian-3/) | 0 | 1 critical · 2 warning · 1 info |
-| [oh-my-dsh](https://www.dsh.so/artifact/oh-my-dsh-10/) | 0 | 1 critical · 8 info |
-| [dsh-risk-guard](https://www.dsh.so/artifact/dsh-risk-guard/) | 0 | 1 critical |
-| [dsh-remote-workspace](https://www.dsh.so/artifact/dsh-remote-workspace-2/) | 0 | 1 critical · 5 info |
-| [dsh-event-sounds](https://www.dsh.so/artifact/dsh-event-sounds/) | 0 | 2 critical · 3 warning · 10 info |
-| [dsh-gov](https://www.dsh.so/artifact/dsh-gov/) | 0 | 1 critical |
-| [dsh-ssh-world](https://www.dsh.so/artifact/dsh-ssh-world/) | 0 | 3 critical · 1 warning · 4 info |
-| [dsh-socrates](https://www.dsh.so/artifact/dsh-socrates/) | 0 | 7 critical |
-| [dsh-sound-lab](https://www.dsh.so/artifact/dsh-sound-lab/) | 0 | 2 critical · 3 warning · 10 info |
-| [eco-dsh-plugins](https://www.dsh.so/artifact/eco-dsh-plugins/) | 0 | 2 critical · 2 info |
-| [dsh-ssh](https://www.dsh.so/artifact/dsh-ssh-4/) | 0 | 2 critical · 2 info |
-| [dsh-maclens](https://www.dsh.so/artifact/dsh-maclens/) | 0 | 3 critical · 1 info |
+| [DSH_VsCodeMode](https://www.dsh.so/artifact/dsh-vscodemode/) | 1 | 1 info |
 | [dsh-lmstudio-router](https://www.dsh.so/artifact/dsh-lmstudio-router/) | 0 | 1 critical · 1 warning · 6 info |
 
 ## 🟠 高风险 — 0 个（Top 20）
 
 _无_
 
-## 🟡 中风险 — 732 个
+## 🟡 中风险 — 660 个
 
-共 732 个插件存在中等级别发现（完整清单见 [reports/full/2026-08-20.md](./reports/full/2026-08-20.md)）。
+共 660 个插件存在中等级别发现（完整清单见 [reports/full/2026-08-21.md](./reports/full/2026-08-21.md)）。
 
-## 🟢 低风险 — 6544 个
+## 🟢 低风险 — 6532 个
 
-共 6544 个插件未发现明显风险（完整清单见 [reports/full/2026-08-20.md](./reports/full/2026-08-20.md)）。
+共 6532 个插件未发现明显风险（完整清单见 [reports/full/2026-08-21.md](./reports/full/2026-08-21.md)）。
 
 ## 今日变化（对比昨日）
 
-- 新增严重风险：52
-- 中风险：731
+- 新增严重风险：4
+- 中风险：637
 
 ## 最近 7 天趋势
 
 | 日期 | Critical | High | Medium | Low |
 |---|---|---|---|---|
-| 2026-08-20 | 50 | 0 | 732 | 6544 |
+| 2026-08-21 | 4 | 0 | 660 | 6532 |
 
 ## 报告档案
 
-- 📦 全量扫描（含按功能分类）：[reports/full/](./reports/full/) — 最新：[2026-08-20.md](./reports/full/2026-08-20.md)，分类：[by-category.md](./reports/full/by-category.md)
-- 📅 每日报告：[reports/daily/](./reports/daily/) — 最新：[2026-08-20.md](./reports/daily/2026-08-20.md)
+- 📦 全量扫描（含按功能分类）：[reports/full/](./reports/full/) — 最新：[2026-08-21.md](./reports/full/2026-08-21.md)，分类：[by-category.md](./reports/full/by-category.md)
+- 📅 每日报告：[reports/daily/](./reports/daily/) — 最新：[2026-08-21.md](./reports/daily/2026-08-21.md)
 - 🗓️ 每周报告：[reports/weekly/](./reports/weekly/) — 本周：[2026-W34.md](./reports/weekly/2026-W34.md)
 
 ## 关于 dsh.so
 
-**dsh.so** 是 DeepSeek Harness 插件注册中心，收录 7342 个插件，每一条都通过 GitHub API 验证真实存在，并从验证 / 安全 / 健康 / 信任四个维度评估。
+**dsh.so** 是 DeepSeek Harness 插件注册中心，收录 7939 个插件，每一条都通过 GitHub API 验证真实存在，并从验证 / 安全 / 健康 / 信任四个维度评估。
 
 👉 [浏览全部插件](https://www.dsh.so/artifacts/) · [安全审计](https://www.dsh.so/security/) · [扫描报告](https://www.dsh.so/security-report/) · [GitHub](https://github.com/ihuajiu/dsh.so)
 
