@@ -4,61 +4,64 @@
 
 [中文版 (Chinese)](./README.zh-CN.md)
 
-![Plugins](https://img.shields.io/badge/plugins-7939-brightgreen) ![Scanned](https://img.shields.io/badge/scanned-7196-blue) ![Critical](https://img.shields.io/badge/critical-4-red) ![High](https://img.shields.io/badge/high-0-orange) ![Medium](https://img.shields.io/badge/medium-660-yellow) ![Low](https://img.shields.io/badge/low-6532-green)
+![Plugins](https://img.shields.io/badge/plugins-10607-brightgreen) ![Scanned](https://img.shields.io/badge/scanned-10358-blue) ![Critical](https://img.shields.io/badge/critical-7-red) ![High](https://img.shields.io/badge/high-0-orange) ![Medium](https://img.shields.io/badge/medium-784-yellow) ![Low](https://img.shields.io/badge/low-9567-green)
 
-**Scan date: 2026-08-21** · 7939 plugins indexed · 7196 scanned (91%)
+**Scan date: 2026-08-22** · 10607 plugins indexed · 10358 scanned (98%)
 
 ## Latest Full Scan
 
 | Level | Count |
 |---|---|
-| 🔴 Critical | 4 |
+| 🔴 Critical | 7 |
 | 🟠 High | 0 |
-| 🟡 Medium | 660 |
-| 🟢 Low | 6532 |
-| ⏳ Pending | 743 |
+| 🟡 Medium | 784 |
+| 🟢 Low | 9567 |
+| ⏳ Pending | 249 |
 
-## 🔴 Critical Risk — 4 plugins
+## 🔴 Critical Risk — 7 plugins
 
 | Plugin | Stars | Hits |
 |---|---|---|
 | [dsh-report-studio](https://www.dsh.so/artifact/dsh-report-studio/) | 1 | 5 info |
-| [dsh-plugin-security-review](https://www.dsh.so/artifact/dsh-plugin-security-review/) | 1 | 4 critical · 12 info |
+| [dsh-file-viewer](https://www.dsh.so/artifact/dsh-file-viewer/) | 1 | 4 warning · 5 info |
 | [DSH_VsCodeMode](https://www.dsh.so/artifact/dsh-vscodemode/) | 1 | 1 info |
+| [dsh-themes](https://www.dsh.so/artifact/dsh-themes-2/) | 1 | 3 warning · 4 info |
+| [dsh-injection-guard](https://www.dsh.so/artifact/dsh-injection-guard/) | 1 | 2 critical |
 | [dsh-lmstudio-router](https://www.dsh.so/artifact/dsh-lmstudio-router/) | 0 | 1 critical · 1 warning · 6 info |
+| [plugin-manager](https://www.dsh.so/artifact/plugin-manager/) | 0 | 3 warning · 1 info |
 
 ## 🟠 High Risk — 0 plugins (Top 20)
 
 _None_
 
-## 🟡 Medium Risk — 660 plugins
+## 🟡 Medium Risk — 784 plugins
 
-660 plugins with moderate findings. Full list: [reports/full/2026-08-21.md](./reports/full/2026-08-21.md)
+784 plugins with moderate findings. Full list: [reports/full/2026-08-22.md](./reports/full/2026-08-22.md)
 
-## 🟢 Low Risk — 6532 plugins
+## 🟢 Low Risk — 9567 plugins
 
-6532 plugins with no significant findings. Full list: [reports/full/2026-08-21.md](./reports/full/2026-08-21.md)
+9567 plugins with no significant findings. Full list: [reports/full/2026-08-22.md](./reports/full/2026-08-22.md)
 
 ## Today's Changes vs Yesterday
 
-- New critical-risk plugins: 4
-- Medium-risk plugins: 637
+- New critical-risk plugins: 5
+- Medium-risk plugins: 692
 
 ## 7-Day Trend
 
 | Date | Critical | High | Medium | Low |
 |---|---|---|---|---|
-| 2026-08-21 | 4 | 0 | 660 | 6532 |
+| 2026-08-22 | 7 | 0 | 784 | 9567 |
 
 ## Report Archive
 
-- 📦 Full scan list (by category): [reports/full/](./reports/full/) — latest: [2026-08-21.md](./reports/full/2026-08-21.md), categories: [by-category.md](./reports/full/by-category.md)
-- 📅 Daily reports: [reports/daily/](./reports/daily/) — latest: [2026-08-21.md](./reports/daily/2026-08-21.md)
+- 📦 Full scan list (by category): [reports/full/](./reports/full/) — latest: [2026-08-22.md](./reports/full/2026-08-22.md), categories: [by-category.md](./reports/full/by-category.md)
+- 📅 Daily reports: [reports/daily/](./reports/daily/) — latest: [2026-08-22.md](./reports/daily/2026-08-22.md)
 - 🗓️ Weekly reports: [reports/weekly/](./reports/weekly/) — this week: [2026-W34.md](./reports/weekly/2026-W34.md)
 
 ## About dsh.so
 
-**dsh.so** is the DeepSeek Harness plugin registry — 7939 plugins, each verified against the GitHub API and scored across **Verification / Security / Health / Trust**.
+**dsh.so** is the DeepSeek Harness plugin registry — 10607 plugins, each verified against the GitHub API and scored across **Verification / Security / Health / Trust**.
 
 👉 [Browse all plugins](https://www.dsh.so/artifacts/) · [Security audit](https://www.dsh.so/security/) · [Scan report](https://www.dsh.so/security-report/) · [GitHub](https://github.com/ihuajiu/dsh.so)
 
